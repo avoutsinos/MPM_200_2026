@@ -157,9 +157,9 @@ If `tab_model()` doesn't work use `summary(YOUR MODEL NAME HERE)`
 Answer these questions:
 
 -   Q2: Which variable has the highest odds ratio for survival?
-
+Species Non-Selasphorus
 -   Q3: Do the calculated odds ratios match the values provided by sjPlot?
-
+Yes
 ## Part 8: Final Push
 
 ### Step 11: Committing the new updated outputs
