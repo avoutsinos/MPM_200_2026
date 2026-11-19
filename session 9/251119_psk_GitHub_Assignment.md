@@ -142,7 +142,7 @@ names(backward_model)
 ```
 
 -   Q1: How many model properties are available?
-
+31
 ### Step 11: Calculate Odds Ratios
 
 Calculate odds ratios manually or use this command for a summary:
